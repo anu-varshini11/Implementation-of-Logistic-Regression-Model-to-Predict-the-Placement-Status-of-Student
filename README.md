@@ -72,12 +72,27 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![ml1](https://github.com/anu-varshini11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138969827/a5c3d163-7f8d-45e4-b651-9ff2adccdf5f)
-![ml2](https://github.com/anu-varshini11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138969827/c6dd32d6-c425-4403-bc3e-00356d3c3205)
-![ml3](https://github.com/anu-varshini11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138969827/16c18f32-7e2c-4c07-b0ac-eb99936b8806)
-![ml4](https://github.com/anu-varshini11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138969827/cabbda4f-c5e6-4c86-9df2-80bfb22df2dd)
-![ml5](https://github.com/anu-varshini11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138969827/eb61ba81-2e6b-4db0-8709-853111d38fea)
-![ml6](https://github.com/anu-varshini11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138969827/5c672ced-749a-433c-8ceb-b087fcfabf4e)
+![alt text](<Screenshot 2024-04-06 225936.png>)
+
+![alt text](<Screenshot 2024-04-06 225946.png>)
+
+![alt text](<Screenshot 2024-04-06 225954.png>)
+
+![alt text](<Screenshot 2024-04-06 230000.png>)
+
+![alt text](<Screenshot 2024-04-06 230008.png>)
+
+![alt text](<Screenshot 2024-04-06 230017.png>)
+
+![alt text](<Screenshot 2024-04-06 230027.png>)
+
+![alt text](<Screenshot 2024-04-06 230034.png>)
+
+![alt text](<Screenshot 2024-04-06 230041.png>)
+
+![alt text](<Screenshot 2024-04-06 230048.png>)
+
+![alt text](<Screenshot 2024-04-06 230056.png>)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
